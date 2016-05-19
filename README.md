@@ -1,0 +1,1 @@
+# ruby-collaborating-objects-lab-seiji-test-batch-001
